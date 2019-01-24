@@ -11,6 +11,7 @@ Self-contained means its running in its own VPC and should have no impact on exi
 
 ### T-Shirt sizes
 This variable is used to abstracht the complexity of AWS instances and allow to choose the number of vCPU and amount of memory required by a simple tshirt size.
+
 | Size | vCPUs | Memory |
 | ---- | ----- | ------ |
 | S | 1 | 2GB |
